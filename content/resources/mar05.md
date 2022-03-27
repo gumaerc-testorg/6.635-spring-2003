@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7075557d-b9d2-6a05-aa54-167c6ad07377
 resourcetype: Document
 title: Mar05.pdf
 uid: 8de172f7-34f1-9d89-337f-c1331ebff26f

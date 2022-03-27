@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7075557d-b9d2-6a05-aa54-167c6ad07377
 resourcetype: Document
 title: Feb19.pdf
 uid: ae6d31b7-03ca-ed52-3c77-80f4e1495e84
