@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides links to video demonstrations.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
