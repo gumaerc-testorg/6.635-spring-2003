@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides links to video demonstrations.
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: 41efd061-fc60-0f6e-1c2a-6f7e70afaba4
 ---
