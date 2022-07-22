@@ -5,6 +5,7 @@ file: /courses/6-635-advanced-electromagnetism-spring-2003/ae6d31b703caed523c778
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Feb19.pdf
 uid: ae6d31b7-03ca-ed52-3c77-80f4e1495e84
 ---
 Characterization of Left-Handed Materials
-

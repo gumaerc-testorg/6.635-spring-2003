@@ -5,6 +5,7 @@ file: /courses/6-635-advanced-electromagnetism-spring-2003/be2e3d960ea741a50e624
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Mar03.pdf
 uid: be2e3d96-0ea7-41a5-0e62-47c590739de2
 ---
 Green's functions for planarly layered media (continued)
-
