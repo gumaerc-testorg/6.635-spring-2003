@@ -2,6 +2,7 @@
 content_type: resource
 description: Integral Equations in Electromagnetics
 file: /courses/6-635-advanced-electromagnetism-spring-2003/8de172f734f19d89337fc1331ebff26f_Mar05.pdf
+file_size: 200565
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
