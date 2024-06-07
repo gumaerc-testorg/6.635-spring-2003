@@ -2,6 +2,7 @@
 content_type: resource
 description: Characterization of Left-Handed Materials
 file: /courses/6-635-advanced-electromagnetism-spring-2003/ae6d31b703caed523c7780f4e1495e84_Feb19.pdf
+file_size: 133334
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
