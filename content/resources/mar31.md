@@ -3,6 +3,7 @@ content_type: resource
 description: 'Study of EM waves in Periodic Structures: Photonic Crystals and Negative
   refraction'
 file: /courses/6-635-advanced-electromagnetism-spring-2003/fc8624536d2fb8c589402e5dd4d3a746_Mar31.pdf
+file_size: 1137630
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
