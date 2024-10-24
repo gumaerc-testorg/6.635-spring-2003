@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Dispertion Relations in Left-Handed Materials
-file: /courses/6-635-advanced-electromagnetism-spring-2003/4c3ea09d624e8cf6cfe554b4c307724a_Feb24.pdf
+file: /ol-ocw-studio-app/courses/6-635-advanced-electromagnetism-spring-2003/4c3ea09d624e8cf6cfe554b4c307724a_Feb24.pdf
 file_size: 2497407
 file_type: application/pdf
 learning_resource_types:
