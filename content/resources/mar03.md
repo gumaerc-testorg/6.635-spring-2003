@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Green's functions for planarly layered media (continued)
-file: /ol-ocw-studio-app/courses/6-635-advanced-electromagnetism-spring-2003/be2e3d960ea741a50e6247c590739de2_Mar03.pdf
+file: /courses/6-635-advanced-electromagnetism-spring-2003/be2e3d960ea741a50e6247c590739de2_Mar03.pdf
 file_size: 122543
 file_type: application/pdf
 learning_resource_types:

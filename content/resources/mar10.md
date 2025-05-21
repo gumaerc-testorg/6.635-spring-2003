@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Method of Moments in Electromagnetics
-file: /ol-ocw-studio-app/courses/6-635-advanced-electromagnetism-spring-2003/849906869bb53f7f3bec8f91ef3e2bb2_Mar10.pdf
+file: /courses/6-635-advanced-electromagnetism-spring-2003/849906869bb53f7f3bec8f91ef3e2bb2_Mar10.pdf
 file_size: 109301
 file_type: application/pdf
 learning_resource_types:
